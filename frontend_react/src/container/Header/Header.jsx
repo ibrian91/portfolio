@@ -49,7 +49,7 @@ const Header = () => {
 
           <div className="tag-cmp app__flex">
             <span className="icon-dev">👩‍💻</span>
-            <p className="p-text-msg">Full-Stack</p>
+            <p className="p-text-msg">Software</p>
             <p className="p-text-msg">Developer</p>
           </div>
         </div>
